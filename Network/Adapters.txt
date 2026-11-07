@@ -1,0 +1,6 @@
+
+Name                         InterfaceDescription                           ifIndex Status       MacAddress
+----                         --------------------                           ------- ------       ----------      
+Wi-Fi                        Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC      19 Up           20-4E-F6-92-0A-…
+Bluetooth Network Connection Bluetooth Device (Personal Area Network)            16 Disconnected 20-4E-F6-92-0A-…
+

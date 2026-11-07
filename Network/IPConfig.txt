@@ -1,0 +1,66 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Digger
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Physical Address. . . . . . . . . : 22-4E-F6-92-0A-B5
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 4:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Physical Address. . . . . . . . . : 26-4E-F6-92-0A-B5
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : hsd1.ma.comcast.net
+   Description . . . . . . . . . . . : Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+   Physical Address. . . . . . . . . : 20-4E-F6-92-0A-B5
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2601:189:4680:b490::107b(Preferred) 
+   Lease Obtained. . . . . . . . . . : Saturday, November 7, 2026 9:11:06 AM
+   Lease Expires . . . . . . . . . . : Saturday, November 7, 2026 11:11:06 AM
+   IPv6 Address. . . . . . . . . . . : 2601:189:4680:b490:4646:fef5:d8c9:9a80(Preferred) 
+   Temporary IPv6 Address. . . . . . : 2601:189:4680:b490:5437:b2b4:b409:c6e6(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::c5b6:4e56:bc60:1eac%19(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.0.43(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Saturday, November 7, 2026 9:11:05 AM
+   Lease Expires . . . . . . . . . . : Monday, November 9, 2026 9:11:04 AM
+   Default Gateway . . . . . . . . . : fe80::aedb:48ff:fe8f:b44f%19
+                                       10.0.0.1
+   DHCP Server . . . . . . . . . . . : 10.0.0.1
+   DHCPv6 IAID . . . . . . . . . . . : 186666742
+   DHCPv6 Client DUID. . . . . . . . : 00-01-01-00-31-98-1C-2D-20-4E-F6-92-0A-B5
+   DNS Servers . . . . . . . . . . . : 2001:558:feed::1
+                                       2001:558:feed::2
+                                       75.75.75.75
+                                       75.75.76.76
+                                       2601:189:4680:b490:aedb:48ff:fe8f:b44f
+                                       2001:558:feed::1
+                                       2001:558:feed::2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 20-4E-F6-92-0A-B4
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes

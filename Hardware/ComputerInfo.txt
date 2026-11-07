@@ -1,0 +1,185 @@
+
+WindowsBuildLabEx                                       : 26100.1.amd64fre.ge_release.240331-1435
+WindowsCurrentVersion                                   : 6.3
+WindowsEditionId                                        : Core
+WindowsInstallationType                                 : Client
+WindowsInstallDateFromRegistry                          : 5/15/2026 12:03:13 AM
+WindowsProductId                                        : 00325-96746-87043-AAOEM
+WindowsProductName                                      : Windows 10 Home
+WindowsRegisteredOrganization                           : 
+WindowsRegisteredOwner                                  : diggerlaptop@outlook.com
+WindowsSystemRoot                                       : C:\WINDOWS
+WindowsVersion                                          : 2009
+WindowsUBR                                              : 9711
+BiosCharacteristics                                     : {7, 11, 12, 15…}
+BiosBIOSVersion                                         : {_ASUS_ - 1072009, X712DA.304, American Megatrends - 5000E}
+BiosBuildNumber                                         : 
+BiosCaption                                             : X712DA.304
+BiosCodeSet                                             : 
+BiosCurrentLanguage                                     : en|US|iso8859-1
+BiosDescription                                         : X712DA.304
+BiosEmbeddedControllerMajorVersion                      : 255
+BiosEmbeddedControllerMinorVersion                      : 255
+BiosFirmwareType                                        : Uefi
+BiosIdentificationCode                                  : 
+BiosInstallableLanguages                                : 1
+BiosInstallDate                                         : 
+BiosLanguageEdition                                     : 
+BiosListOfLanguages                                     : {en|US|iso8859-1}
+BiosManufacturer                                        : American Megatrends Inc.
+BiosName                                                : X712DA.304
+BiosOtherTargetOS                                       : 
+BiosPrimaryBIOS                                         : True
+BiosReleaseDate                                         : 10/7/2021 8:00:00 PM
+BiosSerialNumber                                        : LCN0CV03965049E
+BiosSMBIOSBIOSVersion                                   : X712DA.304
+BiosSMBIOSMajorVersion                                  : 3
+BiosSMBIOSMinorVersion                                  : 2
+BiosSMBIOSPresent                                       : True
+BiosSoftwareElementState                                : Running
+BiosStatus                                              : OK
+BiosSystemBiosMajorVersion                              : 5
+BiosSystemBiosMinorVersion                              : 14
+BiosTargetOperatingSystem                               : 0
+BiosVersion                                             : _ASUS_ - 1072009
+CsAdminPasswordStatus                                   : Unknown
+CsAutomaticManagedPagefile                              : True
+CsAutomaticResetBootOption                              : True
+CsAutomaticResetCapability                              : True
+CsBootOptionOnLimit                                     : 
+CsBootOptionOnWatchDog                                  : 
+CsBootROMSupported                                      : True
+CsBootStatus                                            : {0, 0, 0, 0…}
+CsBootupState                                           : Normal boot
+CsCaption                                               : DIGGER
+CsChassisBootupState                                    : Safe
+CsChassisSKUNumber                                      : NA
+CsCurrentTimeZone                                       : -300
+CsDaylightInEffect                                      : False
+CsDescription                                           : AT/AT COMPATIBLE
+CsDNSHostName                                           : Digger
+CsDomain                                                : WORKGROUP
+CsDomainRole                                            : StandaloneWorkstation
+CsEnableDaylightSavingsTime                             : True
+CsFrontPanelResetStatus                                 : Unknown
+CsHypervisorPresent                                     : False
+CsInfraredSupported                                     : False
+CsInitialLoadInfo                                       : 
+CsInstallDate                                           : 
+CsKeyboardPasswordStatus                                : Unknown
+CsLastLoadInfo                                          : 
+CsManufacturer                                          : ASUSTeK COMPUTER INC.
+CsModel                                                 : VivoBook_ASUSLaptop X712DA_M712DA
+CsName                                                  : DIGGER
+CsNetworkAdapters                                       : {Wi-Fi, Bluetooth Network Connection}
+CsNetworkServerModeEnabled                              : True
+CsNumberOfLogicalProcessors                             : 8
+CsNumberOfProcessors                                    : 1
+CsProcessors                                            : {AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  }
+CsOEMStringArray                                        : {kPJ-+7X7+EfTa, jTyRUBSNi7Ydf, fCrOzJ6x1i-eh,  …}
+CsPartOfDomain                                          : False
+CsPauseAfterReset                                       : -1
+CsPCSystemType                                          : Mobile
+CsPCSystemTypeEx                                        : Mobile
+CsPowerManagementCapabilities                           : 
+CsPowerManagementSupported                              : 
+CsPowerOnPasswordStatus                                 : Unknown
+CsPowerState                                            : Unknown
+CsPowerSupplyState                                      : Safe
+CsPrimaryOwnerContact                                   : 
+CsPrimaryOwnerName                                      : diggerlaptop@outlook.com
+CsResetCapability                                       : Other
+CsResetCount                                            : -1
+CsResetLimit                                            : -1
+CsRoles                                                 : {LM_Workstation, LM_Server, NT}
+CsStatus                                                : OK
+CsSupportContactDescription                             : 
+CsSystemFamily                                          : VivoBook
+CsSystemSKUNumber                                       :  
+CsSystemType                                            : x64-based PC
+CsThermalState                                          : Safe
+CsTotalPhysicalMemory                                   : 10682511360
+CsPhysicallyInstalledMemory                             : 12582912
+CsUserName                                              : Digger\digge
+CsWakeUpType                                            : PowerSwitch
+CsWorkgroup                                             : WORKGROUP
+OsName                                                  : Microsoft Windows 11 Home
+OsType                                                  : WINNT
+OsOperatingSystemSKU                                    : WindowsHome
+OsVersion                                               : 10.0.26200
+OsCSDVersion                                            : 
+OsBuildNumber                                           : 26200
+OsHotFixes                                              : {KB5127690, KB5054156, KB5078674, KB5127648…}
+OsBootDevice                                            : \Device\HarddiskVolume1
+OsSystemDevice                                          : \Device\HarddiskVolume3
+OsSystemDirectory                                       : C:\WINDOWS\system32
+OsSystemDrive                                           : C:
+OsWindowsDirectory                                      : C:\WINDOWS
+OsCountryCode                                           : 1
+OsCurrentTimeZone                                       : -240
+OsLocaleID                                              : 0409
+OsLocale                                                : en-US
+OsLocalDateTime                                         : 11/7/2026 9:43:55 AM
+OsLastBootUpTime                                        : 11/7/2026 9:10:49 AM
+OsUptime                                                : 00:33:05.8940181
+OsBuildType                                             : Multiprocessor Free
+OsCodeSet                                               : 1252
+OsDataExecutionPreventionAvailable                      : True
+OsDataExecutionPrevention32BitApplications              : True
+OsDataExecutionPreventionDrivers                        : True
+OsDataExecutionPreventionSupportPolicy                  : OptIn
+OsDebug                                                 : False
+OsDistributed                                           : False
+OsEncryptionLevel                                       : 256
+OsForegroundApplicationBoost                            : Maximum
+OsTotalVisibleMemorySize                                : 10432140
+OsFreePhysicalMemory                                    : 3933312
+OsTotalVirtualMemorySize                                : 12398220
+OsFreeVirtualMemory                                     : 5300052
+OsInUseVirtualMemory                                    : 7098168
+OsTotalSwapSpaceSize                                    : 
+OsSizeStoredInPagingFiles                               : 1966080
+OsFreeSpaceInPagingFiles                                : 1935356
+OsPagingFiles                                           : {C:\pagefile.sys}
+OsHardwareAbstractionLayer                              : 10.0.26100.1
+OsInstallDate                                           : 5/14/2026 8:03:13 PM
+OsManufacturer                                          : Microsoft Corporation
+OsMaxNumberOfProcesses                                  : 4294967295
+OsMaxProcessMemorySize                                  : 137438953344
+OsMuiLanguages                                          : {en-US}
+OsNumberOfLicensedUsers                                 : 
+OsNumberOfProcesses                                     : 192
+OsNumberOfUsers                                         : 2
+OsOrganization                                          : 
+OsArchitecture                                          : 64-bit
+OsLanguage                                              : en-US
+OsProductSuites                                         : {TerminalServicesSingleSession, HomeEdition}
+OsOtherTypeDescription                                  : 
+OsPAEEnabled                                            : 
+OsPortableOperatingSystem                               : False
+OsPrimary                                               : True
+OsProductType                                           : WorkStation
+OsRegisteredUser                                        : diggerlaptop@outlook.com
+OsSerialNumber                                          : 00325-96746-87043-AAOEM
+OsServicePackMajorVersion                               : 0
+OsServicePackMinorVersion                               : 0
+OsStatus                                                : OK
+OsSuites                                                : {TerminalServices, TerminalServicesSingleSession, HomeEdition}
+OsServerLevel                                           : 
+KeyboardLayout                                          : en-US
+TimeZone                                                : (UTC-05:00) Eastern Time (US & Canada)
+LogonServer                                             : \\DIGGER
+PowerPlatformRole                                       : Mobile
+HyperVisorPresent                                       : False
+HyperVRequirementDataExecutionPreventionAvailable       : True
+HyperVRequirementSecondLevelAddressTranslation          : True
+HyperVRequirementVirtualizationFirmwareEnabled          : True
+HyperVRequirementVMMonitorModeExtensions                : True
+DeviceGuardSmartStatus                                  : Off
+DeviceGuardRequiredSecurityProperties                   : 
+DeviceGuardAvailableSecurityProperties                  : 
+DeviceGuardSecurityServicesConfigured                   : 
+DeviceGuardSecurityServicesRunning                      : 
+DeviceGuardCodeIntegrityPolicyEnforcementStatus         : 
+DeviceGuardUserModeCodeIntegrityPolicyEnforcementStatus : 
+
