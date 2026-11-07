@@ -1,0 +1,37 @@
+
+Status                         : OK
+Name                           : X712DA.304
+Caption                        : X712DA.304
+SMBIOSPresent                  : True
+Description                    : X712DA.304
+InstallDate                    : 
+BuildNumber                    : 
+CodeSet                        : 
+IdentificationCode             : 
+LanguageEdition                : 
+Manufacturer                   : American Megatrends Inc.
+OtherTargetOS                  : 
+SerialNumber                   : LCN0CV03965049E
+SoftwareElementID              : X712DA.304
+SoftwareElementState           : 3
+TargetOperatingSystem          : 0
+Version                        : _ASUS_ - 1072009
+PrimaryBIOS                    : True
+BiosCharacteristics            : {7, 11, 12, 15…}
+BIOSVersion                    : {_ASUS_ - 1072009, X712DA.304, American Megatrends - 5000E}
+CurrentLanguage                : en|US|iso8859-1
+EmbeddedControllerMajorVersion : 255
+EmbeddedControllerMinorVersion : 255
+InstallableLanguages           : 1
+ListOfLanguages                : {en|US|iso8859-1}
+ReleaseDate                    : 10/7/2021 8:00:00 PM
+SMBIOSBIOSVersion              : X712DA.304
+SMBIOSMajorVersion             : 3
+SMBIOSMinorVersion             : 2
+SystemBiosMajorVersion         : 5
+SystemBiosMinorVersion         : 14
+PSComputerName                 : 
+CimClass                       : root/cimv2:Win32_BIOS
+CimInstanceProperties          : {Caption, Description, InstallDate, Name…}
+CimSystemProperties            : Microsoft.Management.Infrastructure.CimSystemProperties
+
